@@ -1,0 +1,12 @@
+th {
+  text-align: left;
+  padding: 0.5rem;
+}
+table,
+th,
+td {
+  border: 1px solid;
+}
+table {
+  background-color: aquamarine;
+}
